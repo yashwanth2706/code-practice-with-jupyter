@@ -2,7 +2,11 @@
 ptr1 points to starting element of the list
 ptr2 points to ending element of the list
 temp is a temporary variable to save the `current` element before exchange
+
+Time complexity: O(N)
+Space complexity: O(1)
 '''
+
 def reverseInplace(nums):
   length = len(nums)
   ptr1 = 0
