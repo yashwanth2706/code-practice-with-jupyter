@@ -1,5 +1,3 @@
-Treat this repositery as quick interview/ knowledge/ understanding cheat sheet to practice/ learn/ refference/
-
 Configuration:
 If you get a warning from git
 "LF will be replaced by CRLF the next time Git touches it"
