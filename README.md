@@ -1,7 +1,7 @@
-
+### Python code for DSA practice
 
 Configuration:
-If you get a warning from git
+If you get a warning from git (This likely can happen in Windows)
 "LF will be replaced by CRLF the next time Git touches it"
 
 Configure git to support Unix like systems (Even when there is no warning)
