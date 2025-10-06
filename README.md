@@ -1,4 +1,5 @@
-### Python code for DSA practice
+### Jupyter notebook based Python & Java code for DSA practice
+- Easily manage both Python and Java code with Jupyter envirornment
 
 Configuration:
 If you get a warning from git (This likely can happen in Windows)
