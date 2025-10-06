@@ -1,8 +1,10 @@
-# Jupyter Notebook Setup for Python & Java (DSA Practice)
+# Jupyter Notebook Setup and Code for Python & Java (DSA Practice)
 
 Easily manage both **Python** and **Java** code within the Jupyter environment.
 
 ---
+
+![Project Demo](https://raw.githubusercontent.com/yashwanth2706/data-structures-algo/main/demoGif/pythonJavaJupyter.gif)
 
 ## ⚙️ Git Configuration on Windows
 
