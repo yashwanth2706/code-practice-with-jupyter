@@ -1,4 +1,4 @@
-# Multiple Programming Languages Code Practice with Jupyter Environment and Language Kernel Installation Guide
+# Multiple Programming Languages Code Practice with Jupyter Environment and Language Kernel Installation Guide with code
 
 This repository provides a setup guide for running **C**, **Python**, **Bash**, and **Java** code in a single **JupyterLab** environment on **Debian-based Linux** systems.
 
