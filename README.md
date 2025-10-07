@@ -1,12 +1,13 @@
 # Jupyter Notebook Setup and Code for Python & Java (DSA Practice)
 
 Easily manage both **Python** and **Java** code within the Jupyter environment.
+This repository consists of code to practice code and understand the concept behind the logic
 
 ---
 
 ![Project Demo](https://raw.githubusercontent.com/yashwanth2706/data-structures-algo/main/demoGif/pythonJavaJupyter.gif)
 
-## ⚙️ Git Configuration on Windows
+## Git Configuration on Windows
 
 If you get this warning from Git (commonly on Windows):
 
@@ -21,7 +22,7 @@ git config --global core.eol lf
 
 ---
 
-## 🐍 Jupyter Installation for Python
+## Jupyter Installation for Python
 
 ### 1. Create a project directory and navigate into it
 
@@ -70,7 +71,7 @@ jupyter notebook
 
 ---
 
-## ☕ IJava Kernel Installation (Pre-built Binary Method)
+## IJava Kernel Installation (Pre-built Binary Method)
 
 This guide explains how to install the **IJava kernel** for Jupyter using pre-built binaries. This avoids common compatibility issues with Gradle or newer Java versions.
 
@@ -113,7 +114,7 @@ You should see `java` in the list of installed kernels.
 
 ---
 
-## 🧠 Usage
+## Usage
 
 1. **Launch Jupyter Notebook**
 
@@ -132,7 +133,7 @@ You should see `java` in the list of installed kernels.
 
 ---
 
-## 🧩 Troubleshooting
+## Troubleshooting
 
 * **Error:** `can't open file 'install.py': [Errno 2] No such file or directory`
 
@@ -144,5 +145,3 @@ You should see `java` in the list of installed kernels.
   * If you face issues with `gradlew` during source build, use the **pre-built binary** approach above to avoid version mismatches.
 
 ---
-
-✅ **You now have Jupyter set up to practice DSA in both Python and Java!**
