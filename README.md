@@ -1,7 +1,7 @@
 # Jupyter Notebook Setup and Code for Python & Java (DSA Practice)
 
-Easily manage both **Python** and **Java** code within the Jupyter environment.
-This repository consists of code to practice code and understand the concept behind the logic
+- Easily manage both **Python** and **Java** code within the Jupyter environment. \
+- This repository consists of DSA code for practice
 
 ---
 
