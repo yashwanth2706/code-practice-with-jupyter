@@ -145,7 +145,6 @@ MIT License — use freely with attribution.
 ---
 
 ### Notes
-- Compatible only with Debian-based systems (no Conda required).
 - All kernels are installed under `~/.local/share/jupyter/kernels/`.
 - Requires JupyterLab ≥ 4.0 and Python ≥ 3.8.
 - Each language executes within its isolated kernel backend.
