@@ -1,5 +1,5 @@
 # Run C, Java, Python, Bash, PostgreSQL in a single Jupyter Notebook
-
+![Project Demo](https://raw.githubusercontent.com/yashwanth2706/jupyter-setup-template/main/demo_gif/pythonJavaJupyter.gif)
 ---
 
 ## Supported Languages
